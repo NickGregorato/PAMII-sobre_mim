@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Sobre_mim</string>
+    <string name="name">Nick</string>
+    <string name="yellow_star">Yellow star</string>
+    <string name="yellow_star2">Yellow star</string>
+    <string name="bio">Oie, meu nome é Nicoly
+    \nEu gosto de comer, dormir, ver dorama e etc
+    \n\nLorem Ipsum
+    \nLorem ipsum dolor sit amet, consectetur adipiscing elit.
+    \nSed suscipit orci dui, eu pulvinar arcu auctor ac.
+    \nDonec euismod scelerisque nisi non vestibulum.
+    \nSuspendisse eu ullamcorper augue, eget finibus erat.
+    \nNullam dapibus et ex eget egestas.
+    \nPellentesque in tellus sed libero pharetra viverra sit amet a metus.
+    \nCras sit amet turpis eget ex tempus bibendum non ut felis.
+    \nNulla ultrices lacinia eros sit amet laoreet. Nulla ultrices rhoncus augue.
+    \nVestibulum commodo commodo libero.
+    \nNunc eu rutrum metus.
+    \nPellentesque nec sem non enim blandit euismod.
+    \nIn sit amet finibus nunc.
+    \nIn eget augue viverra, sodales purus vitae, auctor libero.
+</string>
+</resources>
